@@ -207,7 +207,7 @@ a {
           content: '';
           width: 16px;
           height: 14px;
-          background: url("/img/btn-s.svg") no-repeat center; }
+          background: url("../img/btn-s.svg") no-repeat center; }
         @media (max-width: 424px) {
           .contact .mail .form__button {
             width: 100%;
@@ -225,7 +225,7 @@ a {
   padding-top: 30vh;
   box-sizing: border-box;
   height: 100vh;
-  background-image: url("/img/bg.jpg");
+  background-image: url("../img/bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; }
@@ -260,7 +260,7 @@ a {
       border-radius: 50%;
       top: -15px;
       left: -15px;
-      background: rgba(255, 255, 255, 0.5) url("/img/arrow-down.svg") no-repeat center; }
+      background: rgba(255, 255, 255, 0.5) url("../img/arrow-down.svg") no-repeat center; }
 
 .footer {
   display: flex;
