@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mercdev-test/static/css/main.e2769ed8.chunk.css",
+    "main.js": "/mercdev-test/static/js/main.8d89d20f.chunk.js",
+    "main.js.map": "/mercdev-test/static/js/main.8d89d20f.chunk.js.map",
+    "runtime~main.js": "/mercdev-test/static/js/runtime~main.4f559749.js",
+    "runtime~main.js.map": "/mercdev-test/static/js/runtime~main.4f559749.js.map",
+    "static/js/2.2b5943a6.chunk.js": "/mercdev-test/static/js/2.2b5943a6.chunk.js",
+    "static/js/2.2b5943a6.chunk.js.map": "/mercdev-test/static/js/2.2b5943a6.chunk.js.map",
+    "index.html": "/mercdev-test/index.html",
+    "precache-manifest.bece68cf2f1cb3ae52fb1e81aad3461e.js": "/mercdev-test/precache-manifest.bece68cf2f1cb3ae52fb1e81aad3461e.js",
+    "service-worker.js": "/mercdev-test/service-worker.js",
+    "static/css/main.e2769ed8.chunk.css.map": "/mercdev-test/static/css/main.e2769ed8.chunk.css.map",
+    "static/media/fonts.css": "/mercdev-test/static/media/GothamMedium.ba7ee4ff.woff",
+    "static/media/app.css": "/mercdev-test/static/media/background@2x.c96355a9.jpg",
+    "static/media/w-mercury-development.svg": "/mercdev-test/static/media/w-mercury-development.15aa0581.svg"
+  }
+}
