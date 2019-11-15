@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.js": "/main.2a1ce874d11695c80327.bundle.js",
-    "main.js.map": "/main.2a1ce874d11695c80327.bundle.js.map",
-    "runtime~main.js": "/runtime~main.2a1ce874d11695c80327.bundle.js",
-    "runtime~main.js.map": "/runtime~main.2a1ce874d11695c80327.bundle.js.map",
-    "vendors~main.js": "/vendors~main.2a1ce874d11695c80327.bundle.js",
-    "vendors~main.js.map": "/vendors~main.2a1ce874d11695c80327.bundle.js.map",
-    "iframe.html": "/iframe.html",
-    "precache-manifest.c18a2cb4439ce2703909ec7cad05dda5.js": "/precache-manifest.c18a2cb4439ce2703909ec7cad05dda5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/calendar.svg": "/static/media/calendar.b158e1cf.svg",
-    "static/media/close.72f7e045.svg": "/static/media/close.72f7e045.svg",
-    "static/media/logo.svg": "/static/media/logo.548e377b.svg",
-    "static/media/plus.svg": "/static/media/plus.d5c570f3.svg",
-    "static/media/storage.svg": "/static/media/storage.d3329a81.svg",
-    "static/media/triangle.c45c3606.svg": "/static/media/triangle.c45c3606.svg"
+    "main.js": "/smart-home/static/js/main.08b0178b.chunk.js",
+    "main.js.map": "/smart-home/static/js/main.08b0178b.chunk.js.map",
+    "runtime-main.js": "/smart-home/static/js/runtime-main.425371d0.js",
+    "runtime-main.js.map": "/smart-home/static/js/runtime-main.425371d0.js.map",
+    "static/js/2.427dede9.chunk.js": "/smart-home/static/js/2.427dede9.chunk.js",
+    "static/js/2.427dede9.chunk.js.map": "/smart-home/static/js/2.427dede9.chunk.js.map",
+    "index.html": "/smart-home/index.html",
+    "precache-manifest.0284dc7b8c449a5a16c3f00833eae150.js": "/smart-home/precache-manifest.0284dc7b8c449a5a16c3f00833eae150.js",
+    "service-worker.js": "/smart-home/service-worker.js",
+    "static/media/bg.jpg": "/smart-home/static/media/bg.69d67139.jpg",
+    "static/media/connection.bf1859a1.svg": "/smart-home/static/media/connection.bf1859a1.svg",
+    "static/media/logo.29d736c7.svg": "/smart-home/static/media/logo.29d736c7.svg",
+    "static/media/play.5c53b9f9.svg": "/smart-home/static/media/play.5c53b9f9.svg",
+    "static/media/simple-logo.ebabe13a.svg": "/smart-home/static/media/simple-logo.ebabe13a.svg"
   },
   "entrypoints": [
-    "runtime~main.2a1ce874d11695c80327.bundle.js",
-    "vendors~main.2a1ce874d11695c80327.bundle.js",
-    "main.2a1ce874d11695c80327.bundle.js"
+    "static/js/runtime-main.425371d0.js",
+    "static/js/2.427dede9.chunk.js",
+    "static/js/main.08b0178b.chunk.js"
   ]
 }
