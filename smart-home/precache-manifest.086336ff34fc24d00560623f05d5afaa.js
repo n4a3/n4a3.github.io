@@ -1,35 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98e0c8c8a8ce0cfdae2e4df6db70cc32",
+    "revision": "ff00c528703b116537e441e8dd42f59b",
     "url": "/smart-home/index.html"
   },
   {
-    "revision": "96b3e31906bebd8c5d45",
-    "url": "/smart-home/static/js/0.899c1918.chunk.js"
+    "revision": "b5e59ba03376eb02aba4",
+    "url": "/smart-home/static/js/0.85ac1cf4.chunk.js"
   },
   {
-    "revision": "79375a29cef591a963e5",
-    "url": "/smart-home/static/js/3.de2c368e.chunk.js"
+    "revision": "7ec01595672f75e83fd81b41f132f4c1",
+    "url": "/smart-home/static/js/0.85ac1cf4.chunk.js.LICENSE"
   },
   {
-    "revision": "e15696622385c1b18331",
-    "url": "/smart-home/static/js/4.7ab03ae8.chunk.js"
+    "revision": "fe0279f182e59af2a682",
+    "url": "/smart-home/static/js/3.27462d6a.chunk.js"
   },
   {
-    "revision": "8f6de8c6ff2041046fc0",
-    "url": "/smart-home/static/js/5.fa613435.chunk.js"
+    "revision": "1af6562b6d659632968c2e5e85a5b301",
+    "url": "/smart-home/static/js/3.27462d6a.chunk.js.LICENSE"
   },
   {
-    "revision": "f6a4d8b9611c83afb557",
-    "url": "/smart-home/static/js/6.a2b0a30e.chunk.js"
+    "revision": "4f8981c9b52ca9adf884",
+    "url": "/smart-home/static/js/4.d66b132f.chunk.js"
   },
   {
-    "revision": "ffc894ce4a7c5152e84b",
-    "url": "/smart-home/static/js/main.518192ea.chunk.js"
+    "revision": "4e549268e16e03e97fac",
+    "url": "/smart-home/static/js/5.8a9b9667.chunk.js"
   },
   {
-    "revision": "e5abd5e9f0d4275abd64",
-    "url": "/smart-home/static/js/runtime-main.abfe875a.js"
+    "revision": "0a9600920c9b9afc9cdc",
+    "url": "/smart-home/static/js/6.90b62869.chunk.js"
+  },
+  {
+    "revision": "c8662f0a26784f3a6c76",
+    "url": "/smart-home/static/js/main.1588e20f.chunk.js"
+  },
+  {
+    "revision": "811f567d648512520887",
+    "url": "/smart-home/static/js/runtime-main.c2fe14b6.js"
   },
   {
     "revision": "69d67139f226ea468d2523054ecfa81c",
