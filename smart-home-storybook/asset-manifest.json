@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.js": "/main.2a1ce874d11695c80327.bundle.js",
-    "main.js.map": "/main.2a1ce874d11695c80327.bundle.js.map",
-    "runtime~main.js": "/runtime~main.2a1ce874d11695c80327.bundle.js",
-    "runtime~main.js.map": "/runtime~main.2a1ce874d11695c80327.bundle.js.map",
-    "vendors~main.js": "/vendors~main.2a1ce874d11695c80327.bundle.js",
-    "vendors~main.js.map": "/vendors~main.2a1ce874d11695c80327.bundle.js.map",
-    "iframe.html": "/iframe.html",
-    "precache-manifest.c18a2cb4439ce2703909ec7cad05dda5.js": "/precache-manifest.c18a2cb4439ce2703909ec7cad05dda5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/calendar.svg": "/static/media/calendar.b158e1cf.svg",
-    "static/media/close.72f7e045.svg": "/static/media/close.72f7e045.svg",
-    "static/media/logo.svg": "/static/media/logo.548e377b.svg",
-    "static/media/plus.svg": "/static/media/plus.d5c570f3.svg",
-    "static/media/storage.svg": "/static/media/storage.d3329a81.svg",
-    "static/media/triangle.c45c3606.svg": "/static/media/triangle.c45c3606.svg"
+    "main.js": "/smart-home/main.3a3e20473183e434ec40.bundle.js",
+    "main.js.map": "/smart-home/main.3a3e20473183e434ec40.bundle.js.map",
+    "runtime~main.js": "/smart-home/runtime~main.3a3e20473183e434ec40.bundle.js",
+    "runtime~main.js.map": "/smart-home/runtime~main.3a3e20473183e434ec40.bundle.js.map",
+    "vendors~main.js": "/smart-home/vendors~main.3a3e20473183e434ec40.bundle.js",
+    "vendors~main.js.map": "/smart-home/vendors~main.3a3e20473183e434ec40.bundle.js.map",
+    "iframe.html": "/smart-home/iframe.html",
+    "precache-manifest.56950d20d68427e62184bb69a378d82d.js": "/smart-home/precache-manifest.56950d20d68427e62184bb69a378d82d.js",
+    "service-worker.js": "/smart-home/service-worker.js",
+    "static/media/calendar.svg": "/smart-home/static/media/calendar.b158e1cf.svg",
+    "static/media/close.5c5d6b0f.svg": "/smart-home/static/media/close.5c5d6b0f.svg",
+    "static/media/logo.svg": "/smart-home/static/media/logo.29d736c7.svg",
+    "static/media/plus.svg": "/smart-home/static/media/plus.d5c570f3.svg",
+    "static/media/storage.svg": "/smart-home/static/media/storage.d3329a81.svg",
+    "static/media/triangle.c45c3606.svg": "/smart-home/static/media/triangle.c45c3606.svg",
+    "vendors~main.3a3e20473183e434ec40.bundle.js.LICENSE": "/smart-home/vendors~main.3a3e20473183e434ec40.bundle.js.LICENSE"
   },
   "entrypoints": [
-    "runtime~main.2a1ce874d11695c80327.bundle.js",
-    "vendors~main.2a1ce874d11695c80327.bundle.js",
-    "main.2a1ce874d11695c80327.bundle.js"
+    "runtime~main.3a3e20473183e434ec40.bundle.js",
+    "vendors~main.3a3e20473183e434ec40.bundle.js",
+    "main.3a3e20473183e434ec40.bundle.js"
   ]
 }
